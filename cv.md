@@ -4,19 +4,31 @@
 * **Linkedin [Linkedin_Aliaksandr](http://www.linkedin.com/in/aliaksandr-nevar)**
 * **Email: saschanew@tut.by**
 
+2. *Summary* 
 I`m a highly motivated person with international working experience. 
+My goal is to be a good professional in IT.
+Important for me are besicly my family and work-live balance.  
+Very important for proffesional grouwth is always to learn and to inform yourself about 
+new trends in IT.  
 
-2. *Summary* (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-3. *Skills* (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
+3. *Skills* 
 
+Database Management: 	       MS SQL
+Programming:                   Java
+VCS: 	                       BitBucket
+Tools: 				           Jira, IntelliJ Idea, Photoshop, Figma
 
 
 4. *Code examples* 
 `System.out.println("Hello World!")`
-5. *Experience* (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-6. *Education* (including courses, seminars, lectures, online learning)
-7. *English* (elaborate on what kind of practice you had, if any, how long it lasted and so on)
+(https://github.com/Saschanew)
+
+5. *Experience* 
+since 2019-04 Java developer at AlusoftBel Minsk
+
+6. *Education* 
+2018-10 - 2019-04 Educational Center of HTP 
+Java Basics, UI/UX Design
+
+7. *English* 
+A2
