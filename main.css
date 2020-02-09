@@ -1,0 +1,24 @@
+body {
+    padding: 0 60px;
+    font-size: 14px;
+    line-height: 22px;
+    font-family: Roboto, sans-serif;
+    color: #fed136;
+    background-color: #3d3d3d;
+    }
+
+h1 {
+    font-size: 32px;
+    line-height: normal;
+    }
+
+code {
+    font-family: "Courier New", "Courier", monospace;
+    color: #6a2cce;
+    background-color: #fff;
+    }
+
+footer {
+    margin-top: 30px;
+    color: #fff;
+    }
