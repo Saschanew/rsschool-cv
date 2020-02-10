@@ -53,6 +53,14 @@ a {
     color: #fff;
 }
 
+th {
+    text-align: left;
+}
+
+td {
+    padding-left: 20px;
+}
+
 footer {
     padding: 30px 0px 0px 60px;
 }
