@@ -13,10 +13,10 @@ new trends in IT.
 
 3. *Skills* 
 
-**Database Management:** 	 |      MS SQL
-**Programming:**             |      Java
-**VCS:** 	                 |      BitBucket
-**Tools:** 				     |      Jira, IntelliJ Idea, Photoshop, Figma
+| **Database Management:** 	   |      MS SQL                                   |
+| **Programming:**             |      Java                                     |
+| **VCS:** 	                   |      BitBucket                                |
+| **Tools:** 				   |      Jira, IntelliJ Idea, Photoshop, Figma    | 
 
 
 4. *Code examples* 
